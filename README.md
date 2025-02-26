@@ -1,3 +1,4 @@
 # git-demo
 
-some cotnent
+some content
+a little more
